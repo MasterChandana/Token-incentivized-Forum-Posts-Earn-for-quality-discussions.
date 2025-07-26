@@ -83,7 +83,8 @@ ThinkBucks Forum envisions a future where knowledge sharing and quality discussi
 ```
 ST1PQHQKV0RJXZFYVDGX8XZJNK3AG6Z7A4TZ9WVR.forum-token
 ```
-![Uploading image.png…]()
+<img width="1887" height="932" alt="image" src="https://github.com/user-attachments/assets/7e87bb8f-3a27-4cfb-bada-b98221736d33" />
+
 
 ### Network Information
 
