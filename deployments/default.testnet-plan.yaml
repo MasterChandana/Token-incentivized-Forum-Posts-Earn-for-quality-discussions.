@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: forum-token
+            expected-sender: ST3MCW3400C1E51A0Y8EMGA5DHW9YA7DXC06KHCEG
+            cost: 29610
+            path: "contracts\\forum-token.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.1"
